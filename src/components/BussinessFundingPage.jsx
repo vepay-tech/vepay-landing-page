@@ -124,7 +124,7 @@ const BussinessFundingPage = () => {
                     imageSrc={bussinessFundingBgImage}
                     bgSizeMd="contain"
                     bgSizeLg="79rem"
-                    link="https://dev.vepay.io/onboarding"
+                    link="https://sellerportal.vepay.io/login"
 
                 />
             </div>

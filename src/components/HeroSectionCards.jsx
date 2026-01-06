@@ -23,7 +23,7 @@ const HeroSectionCards = () => {
                             to 70% of your invoice amount. No interest. No waiting. Just fast,
                             transparent, and ethical funding to power your eCommerce business.
                         </p>
-                        <a href="https://dev.vepay.io/onboarding" className="link">
+                        <a href="https://sellerportal.vepay.io/login" className="link">
                             Get Funded Today →
                         </a>
                     </div>

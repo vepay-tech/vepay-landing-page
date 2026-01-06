@@ -179,7 +179,7 @@ const InvoiceFinancingPage = () => {
                              No Interest, No Hidden Fees Just Immediate, Interest Free Financing for Your eCommerce Business"
                 buttonText="Get funded"
                 backgroundImage={invoiceFinancingSustainabilityBg}
-                link='https://dev.vepay.io/onboarding'
+                link='https://sellerportal.vepay.io/login'
             />
             <FaqSection faqs={faqs} />
         </>

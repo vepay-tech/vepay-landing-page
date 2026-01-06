@@ -56,7 +56,7 @@ const Nav = () => {
 
                         {/* Mobile "Get Funded" Button */}
                         <li className="nav-contact-btn">
-                            <a href="https://dev.vepay.io/onboarding">
+                            <a href="https://sellerportal.vepay.io/login">
                                 <button className="nav-button">Get Funded</button>
                             </a>
                         </li>
