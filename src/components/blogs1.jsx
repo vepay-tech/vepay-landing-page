@@ -1,5 +1,5 @@
 import './blogs1.css'; // Import the CSS file for styling
-import articleImg1 from "../assets/article-img-1.png"; // Import the image
+import articleImg1 from "../assets/vepay-article-img-1.png"; // Import the image
 
 const AmazonAIArticle = () => {
   return (

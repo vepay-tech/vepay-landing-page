@@ -1,5 +1,5 @@
 import './blogs1.css';
-import algorithmsImg from "../assets/article-img-3.jpeg"; // Import the image
+import algorithmsImg from "../assets/vepay-article-img-3.jpeg"; // Import the image
 
 const AmazonAlgorithms = () => {
   return (

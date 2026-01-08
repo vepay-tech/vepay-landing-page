@@ -1,15 +1,15 @@
 import './InvestWithVepayPage.css';
 import Invest from "./Invest.jsx";
-import investWithVepayBgImage from "../assets/invest-with-vepay-hero-bg.png";
-import bussinessFundingSustainabilityBg from "../assets/bussiness-funding-sustainability-bg.png"
-import howWorkImg5 from "../assets/how-work-img-5.svg"
-import howWorkImg6 from "../assets/how-work-img-6.svg"
-import howWorkImg7 from "../assets/how-work-img-7.svg"
-import howWorkImg3 from "../assets/how-work-img-3.png"
-import eligibilitySectionLogo1 from "../assets/eligibility-section-logo-1.svg"
-import eligibilitySectionLogo2 from "../assets/eligibility-section-logo-2.svg"
-import cardImg4 from "../assets/why-choose-card-logo-7.svg";
-import readyToMakeImpactSectionBg from "../assets/ready-to-make-impact-section-bg.png";
+import investWithVepayBgImage from "../assets/vepay-invest-with-vepay-hero-bg.png";
+import bussinessFundingSustainabilityBg from "../assets/vepay-bussiness-funding-sustainability-bg.png"
+import howWorkImg5 from "../assets/vepay-how-work-img-5.svg"
+import howWorkImg6 from "../assets/vepay-how-work-img-6.svg"
+import howWorkImg7 from "../assets/vepay-how-work-img-7.svg"
+import howWorkImg3 from "../assets/vepay-how-work-img-3.png"
+import eligibilitySectionLogo1 from "../assets/vepay-eligibility-section-logo-1.svg"
+import eligibilitySectionLogo2 from "../assets/vepay-eligibility-section-logo-2.svg"
+import cardImg4 from "../assets/vepay-why-choose-card-logo-7.svg";
+import readyToMakeImpactSectionBg from "../assets/vepay-ready-to-make-impact-section-bg.png";
 
 
 

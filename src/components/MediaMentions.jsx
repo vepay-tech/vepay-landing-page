@@ -1,10 +1,10 @@
 import React from "react";
 import "./MediaMentions.css"; // Import the CSS file
-import logoCnn from "../assets/logo-cnn.png"
-import cover1 from "../assets/cover1.png"
-import cover2 from "../assets/cover2.png"
-import cover3 from "../assets/cover3.png"
-import cover4 from "../assets/cover4.png"
+import logoCnn from "../assets/vepay-logo-cnn.png"
+import cover1 from "../assets/vepay-cover1.png"
+import cover2 from "../assets/vepay-cover2.png"
+import cover3 from "../assets/vepay-cover3.png"
+import cover4 from "../assets/vepay-cover4.png"
 
 
 

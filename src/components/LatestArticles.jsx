@@ -1,7 +1,7 @@
 import './LatestArticles.css';
-import articleImg1 from "../assets/article-img-1.png";
-import articleImg2 from "../assets/article-img-2.png";
-import articleImg3 from "../assets/article-img-3.jpeg";
+import articleImg1 from "../assets/vepay-article-img-1.png";
+import articleImg2 from "../assets/vepay-article-img-2.png";
+import articleImg3 from "../assets/vepay-article-img-3.jpeg";
 
 
 const articles = [

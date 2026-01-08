@@ -1,6 +1,6 @@
 import React from "react";
 import "./OurVisionSection.css";
-import sampleImage from "../assets/about-section-image-right.svg";
+import sampleImage from "../assets/vepay-about-section-image-right.svg";
 
 const OurVisionSection = () => {
     return (

@@ -17,7 +17,7 @@ const Invest = ({ subheading, heading,heading2, description, buttonText, imageSr
         <section className="invest-section fade-in-up" style={sectionStyle}>
             <div className="invest-text">
                 <h3>{subheading}</h3>
-                <h2>{heading}</h2>
+                <h1>{heading}</h1>
                 <h2>{heading2}</h2>
                 <p>{description}</p>
                 {buttonText && <button className="invest-button" onClick={handleClick}>{buttonText}</button>}

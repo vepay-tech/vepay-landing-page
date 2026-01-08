@@ -1,10 +1,10 @@
 import React from 'react';
 import './TeamSection.css';
-import person1 from '../assets/Mafaz-Jaufer-VePay-700x700.png';
-import person2 from '../assets/Souhail Meftah .png';
-import person3 from '../assets/Usama .png';
-import person4 from '../assets/Golden-Border-Formal-LinkedIn-Profile-Picture-700x700.png';
-import linkedinlogo from '../assets/linkedin-logo.png';
+import person1 from '../assets/vepay-Mafaz-Jaufer-VePay-700x700.png';
+import person2 from '../assets/vepay-Souhail Meftah .png';
+import person3 from '../assets/vepay-Usama .png';
+import person4 from '../assets/vepay-Golden-Border-Formal-LinkedIn-Profile-Picture-700x700.png';
+import linkedinlogo from '../assets/vepay-linkedin-logo.png';
 
 
 const teamMembers = [
@@ -20,7 +20,7 @@ const teamMembers = [
     title: '',
     image: person2 ,
     desc: 'CTO',
-    linkedin: 'https://www.linkedin.com/in/usama-azhar-6432b560/' // Example link
+    linkedin: 'https://www.linkedin.com/in/souhail-meftah/' // Example link
   },
   {
     name: 'Usama Azhar',

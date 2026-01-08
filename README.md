@@ -1,12 +1,72 @@
-# React + Vite
+# VePay — Landing Page (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Minimal React + Vite starter configured with basic ESLint rules.
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Node.js 16+ installed
+- One of: npm, yarn, or pnpm
 
-## Expanding the ESLint configuration
+## Quick start (Windows)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Open a terminal in the project root (VS Code: Ctrl+`):
+
+```powershell
+cd "c:\Users\asus tuf\Documents\Projects\VePay\vepay-landing-page"
+```
+
+Install dependencies (choose one):
+
+```powershell
+npm install
+# or
+yarn
+# or
+pnpm install
+```
+
+Run the development server:
+
+```powershell
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
+Build for production:
+
+```powershell
+npm run build
+# or
+yarn build
+# or
+pnpm build
+```
+
+Preview the production build locally:
+
+```powershell
+npm run preview
+# or
+yarn preview
+# or
+pnpm preview
+```
+
+Linting (if configured):
+
+```powershell
+npm run lint
+# or
+yarn lint
+# or
+pnpm lint
+```
+
+## Notes
+
+- Verify Node version: `node -v`
+- Check available scripts in `package.json` if a command above differs.
+- For production apps, consider using TypeScript and type-aware ESLint rules.

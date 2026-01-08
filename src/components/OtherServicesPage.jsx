@@ -1,12 +1,12 @@
 import './OtherServicesPage.css';
 
-import otherServicesHeroBgImage from "../assets/other-services-hero-bg.png";
-import howWorkImg5 from "../assets/how-work-img-5.png"
-import howWorkImg6 from "../assets/how-work-img-6.svg"
-import howWorkImg7 from "../assets/how-work-img-7.svg"
-import howWorkImg3 from "../assets/how-work-img-3.png"
-import eligibilitySectionLogo1 from "../assets/eligibility-section-logo-1.svg"
-import eligibilitySectionLogo2 from "../assets/eligibility-section-logo-2.svg"
+import otherServicesHeroBgImage from "../assets/vepay-other-services-hero-bg.png";
+import howWorkImg5 from "../assets/vepay-how-work-img-5.png"
+import howWorkImg6 from "../assets/vepay-how-work-img-6.svg"
+import howWorkImg7 from "../assets/vepay-how-work-img-7.svg"
+import howWorkImg3 from "../assets/vepay-how-work-img-3.png"
+import eligibilitySectionLogo1 from "../assets/vepay-eligibility-section-logo-1.svg"
+import eligibilitySectionLogo2 from "../assets/vepay-eligibility-section-logo-2.svg"
 
 import WhyChooseAdvanced from "./WhyChooseAdvanced.jsx";
 import DebitCardSection from "./DebitCardSection.jsx";

@@ -1,7 +1,7 @@
 import './SustainabilityPage.css';
 
-import sustainabilityBottomSectionBg from "../assets/sustainability-bottom-section-bg.svg";
-import sustainabilityPageHeroBgImage from "../assets/sustainability-page-hero-bg.svg";
+import sustainabilityBottomSectionBg from "../assets/vepay-sustainability-bottom-section-bg.svg";
+import sustainabilityPageHeroBgImage from "../assets/vepay-sustainability-page-hero-bg.svg";
 
 import SustainabilityBottomSection from "./SustainabilityBottomSection.jsx";
 import Invest from "./Invest.jsx";

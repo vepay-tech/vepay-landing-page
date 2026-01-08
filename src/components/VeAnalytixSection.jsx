@@ -1,6 +1,6 @@
 import "./VeAnalytixSection.css";
-import featureIcon from "../assets/why-choose-card-logo-7.svg";
-import veAnalytixImg from "../assets/Dashboard.png";
+import featureIcon from "../assets/vepay-why-choose-card-logo-7.svg";
+import veAnalytixImg from "../assets/vepay-Dashboard.png";
 
 const VeAnalytixSection = () => {
     return (

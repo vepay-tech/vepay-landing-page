@@ -1,9 +1,9 @@
 import { useEffect, useRef } from "react";
 import { useNavigate } from 'react-router-dom';
 import "./MarketplaceConnection.css"; // Importing the CSS file
-import cardImage1 from "../assets/card-image-1.svg";
-import cardImage2 from "../assets/card-image-2.svg";
-import cardImage3 from "../assets/card-image-3.svg";
+import cardImage1 from "../assets/vepay-card-image-1.svg";
+import cardImage2 from "../assets/vepay-card-image-2.svg";
+import cardImage3 from "../assets/vepay-card-image-3.svg";
 
 const MarketplaceConnection = () => {
     const sectionRef = useRef(null);

@@ -1,5 +1,5 @@
 import "./VePayCheckingSection.css";
-import accountImage from "../assets/vepay-checking.svg"; // Image for the section
+import accountImage from "../assets/vepay-vepay-checking.svg"; // Image for the section
 
 const VePayCheckingSection = () => {
     return (

@@ -1,21 +1,21 @@
 import { Helmet } from 'react-helmet';
 import './InvoiceFinancingPage.css';
 import Invest from "./Invest.jsx"
-import invoiceFinancingImage from "../assets/invoice-financing-hero-image.png";
+import invoiceFinancingImage from "../assets/vepay-invoice-financing-hero-image.png";
 import SustainabilitySection from "./SustainabilitySection.jsx";
-import invoiceFinancingSustainabilityBg from "../assets/invoice-financing-sustainability-bg.png"
+import invoiceFinancingSustainabilityBg from "../assets/vepay-invoice-financing-sustainability-bg.png"
 import WhyChoose from "./WhyChoose.jsx";
-import howWorkImg1 from "../assets/how-work-img-1.png"
-import howWorkImg2 from "../assets/how-work-img-2.png"
-import howWorkImg3 from "../assets/cheerful-young-handsome-businessman-holding-money-using-mobile-phone.png"
-import howWorkImg4 from "../assets/how-work-img-4.png"
-import eligibilitySectionLogo1 from "../assets/eligibility-section-logo-1.svg"
-import eligibilitySectionLogo2 from "../assets/eligibility-section-logo-2.svg"
-import cardImg1 from "../assets/why-choose-card-logo-1.svg";
-import cardImg2 from "../assets/why-choose-card-logo-2.svg";
-import cardImg3 from "../assets/why-choose-card-logo-3.svg";
-import cardImg4 from "../assets/why-choose-card-logo-4.svg";
-import cardImg5 from "../assets/why-choose-card-logo-5.svg";
+import howWorkImg1 from "../assets/vepay-how-work-img-1.png"
+import howWorkImg2 from "../assets/vepay-how-work-img-2.png"
+import howWorkImg3 from "../assets/vepay-cheerful-young-handsome-businessman-holding-money-using-mobile-phone.png"
+import howWorkImg4 from "../assets/vepay-how-work-img-4.png"
+import eligibilitySectionLogo1 from "../assets/vepay-eligibility-section-logo-1.svg"
+import eligibilitySectionLogo2 from "../assets/vepay-eligibility-section-logo-2.svg"
+import cardImg1 from "../assets/vepay-why-choose-card-logo-1.svg";
+import cardImg2 from "../assets/vepay-why-choose-card-logo-2.svg";
+import cardImg3 from "../assets/vepay-why-choose-card-logo-3.svg";
+import cardImg4 from "../assets/vepay-why-choose-card-logo-4.svg";
+import cardImg5 from "../assets/vepay-why-choose-card-logo-5.svg";
 
 import HowWork from "./HowWork.jsx";
 import EligibilitySection from "./EligibilitySection.jsx";
@@ -179,7 +179,7 @@ const InvoiceFinancingPage = () => {
                              No Interest, No Hidden Fees Just Immediate, Interest Free Financing for Your eCommerce Business"
                 buttonText="Get funded"
                 backgroundImage={invoiceFinancingSustainabilityBg}
-                link='https://sellerportal.vepay.io/login'
+                link='https://dev.vepay.io/onboarding'
             />
             <FaqSection faqs={faqs} />
         </>

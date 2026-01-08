@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./Nav.css";
 import navBarLogo from '../assets/vepay-logo-light.png';
-import loginicon from '../assets/icon-person.svg';
+import loginicon from '../assets/vepay-icon-person.svg';
 
 const Nav = () => {
     const [menuOpen, setMenuOpen] = useState(false);
@@ -47,7 +47,7 @@ const Nav = () => {
                                     <li><a href="/invest-with-vepay">Invest with VePay</a></li>
                                     <li><a href="/about-us">About Us</a></li>
                                     <li><a href="/sustainability">Sustainability</a></li>
-                                    <li><a href="/insights">Insights</a></li>
+                                    <li><a href="https://insights.vepay.io">Insights</a></li>
                                 </ul>
                             )}
                         </li>
@@ -56,7 +56,7 @@ const Nav = () => {
 
                         {/* Mobile "Get Funded" Button */}
                         <li className="nav-contact-btn">
-                            <a href="https://sellerportal.vepay.io/login">
+                            <a href="https://dev.vepay.io/onboarding">
                                 <button className="nav-button">Get Funded</button>
                             </a>
                         </li>

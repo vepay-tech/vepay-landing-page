@@ -1,13 +1,13 @@
 import { useSwipeable } from "react-swipeable"; // Install: npm install react-swipeable
 import './Insights.css';
 
-import articleImg1 from "../assets/article-img-1.png";
-import articleImg2 from "../assets/article-img-2.png";
-import articleImg3 from "../assets/article-img-3.jpeg";
-import articleImg4 from "../assets/article-img-4.png";
-import articleImg5 from "../assets/article-img-5.png";
-import articleImg6 from "../assets/article-img-6.png";
-import arrowRight from "../assets/arrow-right.png";
+import articleImg1 from "../assets/vepay-article-img-1.png";
+import articleImg2 from "../assets/vepay-article-img-2.png";
+import articleImg3 from "../assets/vepay-article-img-3.jpeg";
+import articleImg4 from "../assets/vepay-article-img-4.png";
+import articleImg5 from "../assets/vepay-article-img-5.png";
+import articleImg6 from "../assets/vepay-article-img-6.png";
+import arrowRight from "../assets/vepay-arrow-right.png";
 
 const articles = [
     { id: 1, image: articleImg1, title: "Integration of AI and Automation in Amazon Selling", description: "One of the most transformative trends in 2025 is the integration of Artificial Intelligence (AI) and automation", date: "March 5, 2025", link: "#" },

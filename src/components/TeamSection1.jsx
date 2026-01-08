@@ -1,10 +1,10 @@
 import React from 'react';
 import './TeamSection1.css';
-import person5 from '../assets/Mike-700x700.png';
-import person6 from '../assets/Dr.-Farrukh-700x700.png';
-import person7 from '../assets/Osman-Kassim-VePay-700x700.png';
-import person8 from '../assets/Derrick-700x700.png';
-import linkedinlogo from '../assets/linkedin-logo.png';
+import person5 from '../assets/vepay-Mike-700x700.png';
+import person6 from '../assets/vepay-Dr.-Farrukh-700x700.png';
+import person7 from '../assets/vepay-Osman-Kassim-VePay-700x700.png';
+import person8 from '../assets/vepay-Derrick-700x700.png';
+import linkedinlogo from '../assets/vepay-linkedin-logo.png';
 
 const teamMembers = [
   {

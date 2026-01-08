@@ -1,5 +1,5 @@
-import cardImage from "../assets/credit-card.svg"; // Floating card image
-import backgroundImage from "../assets/vecard-bg.png"; // Background image
+import cardImage from "../assets/vepay-credit-card.svg"; // Floating card image
+import backgroundImage from "../assets/vepay-vecard-bg.png"; // Background image
 import './VeCardSection.css'
 
 const VeCardSection = () => {
