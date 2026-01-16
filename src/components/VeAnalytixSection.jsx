@@ -113,7 +113,7 @@ const VeAnalytixSection = () => {
                 {/* Right Side: Image */}
                 <div className="veanalytix-image-container">
                     <img
-                        src={veAnalytixImg} alt="Feature"
+                        src={veAnalytixImg}
                         alt="VeAnalytiX Dashboard"
                         className="veanalytix-image fade-in-up"
                     />
