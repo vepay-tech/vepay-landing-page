@@ -34,7 +34,7 @@ const HomePage = () => {
                 <Invest
                     subheading="Invest with VePay"
                     heading="Invest with Purpose. Empower Grassroots Businesses"
-                    description="Join us on a mission to empower small businesses with Shariah-compliant, ethical investments.
+                    description="Join us on a mission to empower small businesses with interest-free, ethical investments.
                             Your investment fuels the growth of eCommerce businesses that form the backbone of the economy.
                             Earn competitive returns while making a meaningful impact."
                     buttonText="Start Investing"

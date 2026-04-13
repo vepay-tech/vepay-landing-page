@@ -84,7 +84,7 @@ const TermsAndConditions = () => {
                 <section>
                     <h2> Services</h2>
                     <p>
-                        VePay offers ethical and Shariah-compliant funding solutions for eCommerce sellers through its
+                        VePay offers ethical and interest-free funding solutions for eCommerce sellers through its
                         proprietary platform, collectively referred to as the "Service." The Service includes features
                         such as invoice factoring, real-time marketplace data integration, and a client portal for
                         tracking balances, withdrawals, and funding activity.

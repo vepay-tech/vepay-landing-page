@@ -24,7 +24,7 @@ const PrivacyPolicy = () => {
                     <h2>1. Who We Are </h2>
                     <p>
                         VePay is a global FinTech company offering ethical, 
-                        Shariah-compliant factoring and return allowance solutions 
+                        interest-free factoring and return allowance solutions 
                         for eCommerce sellers and vendors. We empower businesses through innovative 
                         financing tools while ensuring that all operations align with Islamic financial 
                         principles. 
@@ -92,7 +92,7 @@ const PrivacyPolicy = () => {
                     <ul>
                         <li>Service Providers: Including cloud hosting, data analytics, payment processors, and compliance partners </li>
                         <li>eCommerce Marketplaces: Where integration is required for service delivery </li>
-                        <li>Shariah Auditors and Compliance Partners: For service certification and compliance oversight </li>
+                        <li>Audit and Compliance Partners: For service certification and compliance oversight </li>
                         <li>Regulators or Law Enforcement: When required by applicable law or for the investigation of fraud or illegal activity </li>
                         <li>Investors or Partners: In anonymized or aggregated form only, unless explicit consent is obtained  </li>
                     </ul>

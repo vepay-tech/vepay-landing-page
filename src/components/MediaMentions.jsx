@@ -19,7 +19,7 @@ const mediaData = [
         coverImage: cover2,
         logo: logoCnn,
         date: "February 20, 2024",
-        caption: "How VePay is supporting small businesses with Shariah-compliant funding.",
+        caption: "How VePay is supporting small businesses with interest-free funding.",
     },
     {
         coverImage: cover3,
@@ -37,7 +37,7 @@ const mediaData = [
         coverImage: cover2,
         logo: logoCnn,
         date: "February 20, 2024",
-        caption: "How VePay is supporting small businesses with Shariah-compliant funding.",
+        caption: "How VePay is supporting small businesses with interest-free funding.",
     },
     {
         coverImage: cover1,

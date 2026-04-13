@@ -71,7 +71,7 @@ const InvestWithVepayPage = () => {
         {
             imgSrc: cardImg4,
             title: "Ethical & Faith-Based Model",
-            description: "We offer a Shariah-compliant investment model with no involvement in interest, usury, or harmful business practices."
+            description: "We offer an interest-free investment model with no involvement in interest, usury, or harmful business practices."
         },
         {
             imgSrc: cardImg4,
@@ -129,7 +129,7 @@ const InvestWithVepayPage = () => {
                 <Invest
                     subheading="Invest with VePay"
                     heading="invest in What Matters Most"
-                    description="Whether you're planning for growth,impact,or steady returns,Vepay helps you align your investments with your values. Our Shariah-compliant,interest-free investment model empowers you to invest in eCommerce businesses that are making a difference."
+                    description="Whether you're planning for growth,impact,or steady returns,Vepay helps you align your investments with your values. Our interest-free investment model empowers you to invest in eCommerce businesses that are making a difference."
                     buttonText="Invest Now!"
                     imageSrc={investWithVepayBgImage}
                     bgSizeMd="contain"
@@ -149,7 +149,7 @@ const InvestWithVepayPage = () => {
 
             <HowWork
                 title="Invest with Purpose. Grow with Confidence. "
-                subtext="At VePay, your capital does more than earn returns—it empowers real eCommerce businesses. With our Shariah-compliant, interest-free investment model, you get to choose how you invest based on your risk appetite and financial goals. We put your funds to work through ethical, asset-backed financing, delivering quarterly profit distributions and measurable impact."
+                subtext="At VePay, your capital does more than earn returns—it empowers real eCommerce businesses. With our interest-free investment model, you get to choose how you invest based on your risk appetite and financial goals. We put your funds to work through ethical, asset-backed financing, delivering quarterly profit distributions and measurable impact."
                 steps={steps}
                 description="At VePay, we’ve made it fast and effortless to get funded. In just three easy steps, connect your eCommerce business and access the working capital you need – instantly."
                 buttonPrimaryText=""

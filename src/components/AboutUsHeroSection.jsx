@@ -8,7 +8,7 @@ const AboutUsHeroSection = () => {
             <div className="about-content fade-in">
                 <h2 className="about-heading fade-in">
                     Founded in 2022, VePay is a Global FinTech leader providing ethical,
-                    Shariah-compliant factoring solutions to empower eCommerce businesses.
+                    interest-free factoring solutions to empower eCommerce businesses.
                 </h2>
                 <p className="about-description fade-in">
                     With over five decades of combined expertise in eCommerce, banking,
